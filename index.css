@@ -86,7 +86,7 @@ s, i, em {
     height:280px;
     margin:0 auto;
     position: relative;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 
 .inner-banner-s{
@@ -95,6 +95,7 @@ s, i, em {
 
 .i-b-Ul{
     width:1000%;
+    margin-left:-520px;
 }
 
 .inner-banner-s .i-b-Ul  .b-list{
